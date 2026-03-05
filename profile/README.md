@@ -1,4 +1,4 @@
-🧠 Dexter Manager (Mn)
+🧠 Dexter Manager (DX)
 
 O Dexter Manager é um ERP desenvolvido para integrar e otimizar os principais processos organizacionais, alinhando recursos operacionais aos objetivos estratégicos da empresa.
 
